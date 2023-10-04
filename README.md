@@ -50,3 +50,7 @@ Este texto esta en **_negrita y cursiva_**
 |Col 2 es|Derecha|134€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[] Opcion A
+-[x] Opcion B
+-[] Opcion C
